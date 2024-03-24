@@ -1,0 +1,4 @@
+# CMake generation dependency list for this directory.
+D:\Program Files\CMake\share\cmake-3.24\Templates\MSBuild\nasm.props.in
+E:/gRPC/grpc/third_party/cares/cares/include/CMakeLists.txt
+E:/gRPC/grpc/third_party/cares/cares/include/ares_build.h.cmake

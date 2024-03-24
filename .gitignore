@@ -1,0 +1,14 @@
+*.pdb
+*.exe
+*.lib
+*.ilk
+*.obj
+*.tlog
+*.log
+*Cache.txt
+*CppClean.log
+*.exe.recipe
+*.lastbuildstate
+grpc/vs/.vs
+grpc/vs/third_party/abseil-cpp/.vs
+

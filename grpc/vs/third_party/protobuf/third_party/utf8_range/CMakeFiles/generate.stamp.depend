@@ -1,0 +1,8 @@
+# CMake generation dependency list for this directory.
+D:/Program Files/CMake/share/cmake-3.24/Modules/CMakePackageConfigHelpers.cmake
+D:/Program Files/CMake/share/cmake-3.24/Modules/GNUInstallDirs.cmake
+D:/Program Files/CMake/share/cmake-3.24/Modules/WriteBasicConfigVersionFile.cmake
+D:\Program Files\CMake\share\cmake-3.24\Templates\MSBuild\nasm.props.in
+E:/gRPC/grpc/third_party/protobuf/third_party/utf8_range/CMakeLists.txt
+E:/gRPC/grpc/third_party/protobuf/third_party/utf8_range/cmake/utf8_range-config.cmake.in
+E:/gRPC/grpc/third_party/protobuf/third_party/utf8_range/cmake/utf8_range.pc.cmake

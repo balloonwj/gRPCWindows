@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\gRPC\grpc\vs\gens\src\proto\grpc\channelz\channelz.pb.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\gRPC\grpc\vs\gens\src\proto\grpc\channelz\channelz.grpc.pb.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\gRPC\grpc\src\cpp\server\channelz\channelz_service.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\gRPC\grpc\src\cpp\server\channelz\channelz_service_plugin.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\gRPC\grpc\vs\gens\src\proto\grpc\channelz\channelz.pb.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\gRPC\grpc\vs\gens\src\proto\grpc\channelz\channelz.grpc.pb.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\gRPC\grpc\vs\CMakeFiles\fc75d0bb29e6c9885b9062fdfbb43adf\channelz.grpc.pb.cc.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\gRPC\grpc\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{00989AA3-7543-3869-974C-B9C8C357DAEF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{A96A6577-6399-39A6-9BE1-A78ECDC91ED5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{8047056A-23F9-35F5-A824-D85068C1C161}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

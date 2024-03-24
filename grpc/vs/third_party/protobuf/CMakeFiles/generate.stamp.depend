@@ -1,0 +1,33 @@
+# CMake generation dependency list for this directory.
+D:/Program Files/CMake/share/cmake-3.24/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake
+D:/Program Files/CMake/share/cmake-3.24/Modules/CMakeDependentOption.cmake
+D:/Program Files/CMake/share/cmake-3.24/Modules/CheckCSourceCompiles.cmake
+D:/Program Files/CMake/share/cmake-3.24/Modules/CheckIncludeFile.cmake
+D:/Program Files/CMake/share/cmake-3.24/Modules/CheckLibraryExists.cmake
+D:/Program Files/CMake/share/cmake-3.24/Modules/CheckLinkerFlag.cmake
+D:/Program Files/CMake/share/cmake-3.24/Modules/FindPackageHandleStandardArgs.cmake
+D:/Program Files/CMake/share/cmake-3.24/Modules/FindPackageMessage.cmake
+D:/Program Files/CMake/share/cmake-3.24/Modules/FindThreads.cmake
+D:/Program Files/CMake/share/cmake-3.24/Modules/GNUInstallDirs.cmake
+D:/Program Files/CMake/share/cmake-3.24/Modules/Internal/CheckFlagCommonConfig.cmake
+D:/Program Files/CMake/share/cmake-3.24/Modules/Internal/CheckLinkerFlag.cmake
+D:/Program Files/CMake/share/cmake-3.24/Modules/Internal/CheckSourceCompiles.cmake
+D:\Program Files\CMake\share\cmake-3.24\Templates\MSBuild\nasm.props.in
+E:/gRPC/grpc/third_party/protobuf/CMakeLists.txt
+E:/gRPC/grpc/third_party/protobuf/cmake/abseil-cpp.cmake
+E:/gRPC/grpc/third_party/protobuf/cmake/install.cmake
+E:/gRPC/grpc/third_party/protobuf/cmake/libprotobuf-lite.cmake
+E:/gRPC/grpc/third_party/protobuf/cmake/libprotobuf.cmake
+E:/gRPC/grpc/third_party/protobuf/cmake/libprotoc.cmake
+E:/gRPC/grpc/third_party/protobuf/cmake/protobuf-config-version.cmake.in
+E:/gRPC/grpc/third_party/protobuf/cmake/protobuf-config.cmake.in
+E:/gRPC/grpc/third_party/protobuf/cmake/protobuf-configure-target.cmake
+E:/gRPC/grpc/third_party/protobuf/cmake/protobuf-generate.cmake
+E:/gRPC/grpc/third_party/protobuf/cmake/protobuf-lite.pc.cmake
+E:/gRPC/grpc/third_party/protobuf/cmake/protobuf-module.cmake.in
+E:/gRPC/grpc/third_party/protobuf/cmake/protobuf-options.cmake
+E:/gRPC/grpc/third_party/protobuf/cmake/protobuf.pc.cmake
+E:/gRPC/grpc/third_party/protobuf/cmake/protoc.cmake
+E:/gRPC/grpc/third_party/protobuf/cmake/utf8_range.cmake
+E:/gRPC/grpc/third_party/protobuf/cmake/version.rc.in
+E:/gRPC/grpc/third_party/protobuf/src/file_lists.cmake

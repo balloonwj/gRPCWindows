@@ -1,0 +1,21 @@
+# CMake generation dependency list for this directory.
+D:/Program Files/CMake/share/cmake-3.24/Modules/CMakeASMCompiler.cmake.in
+D:/Program Files/CMake/share/cmake-3.24/Modules/CMakeASMInformation.cmake
+D:/Program Files/CMake/share/cmake-3.24/Modules/CMakeASM_NASMInformation.cmake
+D:/Program Files/CMake/share/cmake-3.24/Modules/CMakeCompilerIdDetection.cmake
+D:/Program Files/CMake/share/cmake-3.24/Modules/CMakeDetermineASMCompiler.cmake
+D:/Program Files/CMake/share/cmake-3.24/Modules/CMakeDetermineASM_NASMCompiler.cmake
+D:/Program Files/CMake/share/cmake-3.24/Modules/CMakeDetermineCompiler.cmake
+D:/Program Files/CMake/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake
+D:/Program Files/CMake/share/cmake-3.24/Modules/CMakeFindBinUtils.cmake
+D:/Program Files/CMake/share/cmake-3.24/Modules/CMakeTestASMCompiler.cmake
+D:/Program Files/CMake/share/cmake-3.24/Modules/CMakeTestASM_NASMCompiler.cmake
+D:/Program Files/CMake/share/cmake-3.24/Modules/CheckCSourceCompiles.cmake
+D:/Program Files/CMake/share/cmake-3.24/Modules/CheckIncludeFile.cmake
+D:/Program Files/CMake/share/cmake-3.24/Modules/CheckLibraryExists.cmake
+D:/Program Files/CMake/share/cmake-3.24/Modules/FindPackageHandleStandardArgs.cmake
+D:/Program Files/CMake/share/cmake-3.24/Modules/FindPackageMessage.cmake
+D:/Program Files/CMake/share/cmake-3.24/Modules/FindThreads.cmake
+D:\Program Files\CMake\share\cmake-3.24\Templates\MSBuild\nasm.props.in
+E:/gRPC/grpc/third_party/boringssl-with-bazel/CMakeLists.txt
+E:/gRPC/grpc/vs/CMakeFiles/3.24.1/CMakeASM_NASMCompiler.cmake

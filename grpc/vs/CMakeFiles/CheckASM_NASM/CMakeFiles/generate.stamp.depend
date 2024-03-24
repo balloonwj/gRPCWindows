@@ -1,0 +1,24 @@
+# CMake generation dependency list for this directory.
+D:/Program Files/CMake/share/cmake-3.24/Modules/CMakeASMCompiler.cmake.in
+D:/Program Files/CMake/share/cmake-3.24/Modules/CMakeASMInformation.cmake
+D:/Program Files/CMake/share/cmake-3.24/Modules/CMakeASM_NASMInformation.cmake
+D:/Program Files/CMake/share/cmake-3.24/Modules/CMakeCompilerIdDetection.cmake
+D:/Program Files/CMake/share/cmake-3.24/Modules/CMakeDetermineASMCompiler.cmake
+D:/Program Files/CMake/share/cmake-3.24/Modules/CMakeDetermineASM_NASMCompiler.cmake
+D:/Program Files/CMake/share/cmake-3.24/Modules/CMakeDetermineCompiler.cmake
+D:/Program Files/CMake/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake
+D:/Program Files/CMake/share/cmake-3.24/Modules/CMakeDetermineSystem.cmake
+D:/Program Files/CMake/share/cmake-3.24/Modules/CMakeFindBinUtils.cmake
+D:/Program Files/CMake/share/cmake-3.24/Modules/CMakeGenericSystem.cmake
+D:/Program Files/CMake/share/cmake-3.24/Modules/CMakeInitializeConfigs.cmake
+D:/Program Files/CMake/share/cmake-3.24/Modules/CMakeSystem.cmake.in
+D:/Program Files/CMake/share/cmake-3.24/Modules/CMakeSystemSpecificInformation.cmake
+D:/Program Files/CMake/share/cmake-3.24/Modules/CMakeSystemSpecificInitialize.cmake
+D:/Program Files/CMake/share/cmake-3.24/Modules/CMakeTestASMCompiler.cmake
+D:/Program Files/CMake/share/cmake-3.24/Modules/CMakeTestASM_NASMCompiler.cmake
+D:/Program Files/CMake/share/cmake-3.24/Modules/Platform/Windows.cmake
+D:/Program Files/CMake/share/cmake-3.24/Modules/Platform/WindowsPaths.cmake
+D:\Program Files\CMake\share\cmake-3.24\Templates\MSBuild\nasm.props.in
+E:/gRPC/grpc/vs/CMakeFiles/CheckASM_NASM/CMakeFiles/3.24.1/CMakeASM_NASMCompiler.cmake
+E:/gRPC/grpc/vs/CMakeFiles/CheckASM_NASM/CMakeFiles/3.24.1/CMakeSystem.cmake
+E:/gRPC/grpc/vs/CMakeFiles/CheckASM_NASM/CMakeLists.txt

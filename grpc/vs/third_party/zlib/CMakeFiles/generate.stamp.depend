@@ -1,0 +1,14 @@
+# CMake generation dependency list for this directory.
+D:/Program Files/CMake/share/cmake-3.24/Modules/CheckCSourceCompiles.cmake
+D:/Program Files/CMake/share/cmake-3.24/Modules/CheckFunctionExists.c
+D:/Program Files/CMake/share/cmake-3.24/Modules/CheckFunctionExists.cmake
+D:/Program Files/CMake/share/cmake-3.24/Modules/CheckIncludeFile.c.in
+D:/Program Files/CMake/share/cmake-3.24/Modules/CheckIncludeFile.cmake
+D:/Program Files/CMake/share/cmake-3.24/Modules/CheckIncludeFileCXX.cmake
+D:/Program Files/CMake/share/cmake-3.24/Modules/CheckTypeSize.c.in
+D:/Program Files/CMake/share/cmake-3.24/Modules/CheckTypeSize.cmake
+D:\Program Files\CMake\share\cmake-3.24\Templates\MSBuild\nasm.props.in
+E:/gRPC/grpc/third_party/zlib/CMakeLists.txt
+E:/gRPC/grpc/third_party/zlib/zconf.h.cmakein
+E:/gRPC/grpc/third_party/zlib/zlib.pc.cmakein
+E:/gRPC/grpc/vs/CMakeFiles/CheckTypeSize/OFF64_T.c
