@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="greeter_server">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\greeter_server.cc">
+      <Filter>greeter_server</Filter>
+    </ClCompile>
+    <ClCompile Include="..\helloworld.grpc.pb.cc">
+      <Filter>greeter_server</Filter>
+    </ClCompile>
+    <ClCompile Include="..\helloworld.pb.cc">
+      <Filter>greeter_server</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\helloworld.grpc.pb.h">
+      <Filter>greeter_server</Filter>
+    </ClInclude>
+    <ClInclude Include="..\helloworld.pb.h">
+      <Filter>greeter_server</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
